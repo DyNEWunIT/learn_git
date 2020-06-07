@@ -1,0 +1,26 @@
+// diese File werde ich als Spielfile für die Versionierung im git Kurs benutzen
+
+Sat 06 Jun 2020 01:43:07 PM CEST 
+
+git verstehen: 
+Snapshots, lokale, Integrietät, fügt Daten hinzu modified-staged-commited
+
+Erstelle leeres git repo
+git init
+
+Datei zum Index hinzufügen
+git add
+
+Datei aus dem Arbeitsbaum und aus dem Index entfernen
+git rm --cached
+
+Änderungen am reo aufzeichen (bestätigen)
+git commit
+
+Status des repo anzeigen 
+git status
+
+nach dem remove jetz eine Änderung und dann wieder mit add und commit rein ins repo
+nach dem chkout waren die Änderungen weg, jetzt füge ich sie wieder ein.
+Sat 06 Jun 2020 02:00:17 PM CEST 
+
