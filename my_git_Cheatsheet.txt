@@ -24,3 +24,5 @@ nach dem remove jetz eine Änderung und dann wieder mit add und commit rein ins 
 nach dem chkout waren die Änderungen weg, jetzt füge ich sie wieder ein.
 Sat 06 Jun 2020 02:00:17 PM CEST 
 
+Diese Zeile habe ich jetzt im Web in github eingefügt
+
