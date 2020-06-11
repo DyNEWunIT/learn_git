@@ -1,0 +1,2 @@
+diese Datei new.txt wurd im neuen branch newbranch erstellt.
+die werde ich jetzt adden und dann committen. die dürfte dnan nur im branch newbranch zu sehen sein und nicht im branch mmaster.
